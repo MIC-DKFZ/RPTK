@@ -43,24 +43,6 @@ pip install -e .
 
 ```
 
-```bash
-
-cd rptk
-
-# Option 1: Install with conda
-conda env create -f rptk_requirements.yml
-
-# activate env
-conda activate RPTK
-
-# Option 2: install with pip python 3.10
-python -m pip install -r requirements.txt
-
-# install dependencies
-pip install -e .
-
-```
-
 #### Verify Installation
 
 Run the following command to check that the installation was successful:
