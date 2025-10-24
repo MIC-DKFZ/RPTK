@@ -85,7 +85,7 @@ docker run --rm \
   -u $(id -u):$(id -g) \
   --mount type=tmpfs,destination=/workspace/input,tmpfs-mode=1777 \
   --mount type=tmpfs,destination=/workspace/tmp,tmpfs-mode=1777 \
-  -v /home/j902n/Desktop/E240-ML/data/WORC/CRLM/CRLM:/data \
+  -v /path/to/data/WORC/CRLM/CRLM:/data \
   rptk:offline \
   --input_csv /data/CRLM_docker_test.csv \
   --output_folder /data/out \
