@@ -24,7 +24,7 @@ mkdir ~/RPTK
 cd ~/RPTK
 
 # Clone the main RPTK repo (this one)
-git clone -b dev_rptk_0.10 https://git.dkfz.de/mic/personal/group3/jonasb/rptk.git rptk
+git clone https://github.com/MIC-DKFZ/rptk.git rptk
 
 # create conda env
 conda create -y -n rptk -c conda-forge python=3.10
