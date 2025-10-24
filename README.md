@@ -1,7 +1,7 @@
 
 <img src="img/rptk_logo.png" align="right" width="150"/>
 
-[![Multi Section](https://img.shields.io/badge/RPTK-v0.9-purple?logo=github)](https://git.dkfz.de/mic/personal/group3/jonasb/rptk/)
+[![Multi Section](https://img.shields.io/badge/RPTK-v1.0-purple?logo=github)](https://git.dkfz.de/mic/personal/group3/jonasb/rptk/)
 [![Logo Tool](https://img.shields.io/badge/Python-3.9_%7C_3.10_%7C_3.11-blue?)](https://github.com/username/mytool)
 [![Logo Tool](https://img.shields.io/badge//Operating_Systems-Linux-re?)](https://github.com/username/mytool)
 
