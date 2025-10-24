@@ -156,3 +156,8 @@ This expanded configuration guide ensures that users can take full advantage of 
 2. Zwanenburg, A., Leger, S., Agolli, L., Pilz, K., Troost, E. G. C., Richter, C., & Löck, S. (2019).
    Assessing robustness of radiomic features by image perturbation.
    *Scientific Reports*, 9, 614. https://doi.org/10.1038/s41598-018-36938-4 (**MIRP**)
+
+## Acknowlegement
+
+RPTK is developed and maintained by the [Division of Medical Image Computing](https://www.dkfz.de/en/mic/index.php) at the 
+[German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html).
